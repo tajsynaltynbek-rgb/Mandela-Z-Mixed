@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MarkCall Idle"
+		},
+		{
+			"offsets": [
+				4,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MarkCall Left"
+		},
+		{
+			"offsets": [
+				-22,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MarkCall Right"
+		},
+		{
+			"offsets": [
+				-20,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MarkCall Up"
+		},
+		{
+			"offsets": [
+				-9,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MarkCall Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MarkCall",
+	"position": [
+		-110,
+		-100
+	],
+	"healthicon": "empty",
+	"flip_x": false,
+	"healthbar_colors": [
+		10,
+		10,
+		10
+	],
+	"camera_position": [
+		232,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

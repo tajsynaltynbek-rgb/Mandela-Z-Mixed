@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MarkCall Exposure 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				2
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "MarkCall Exposure 2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mark Exposure",
+	"position": [
+		-110,
+		-100
+	],
+	"healthicon": "empty",
+	"flip_x": false,
+	"healthbar_colors": [
+		10,
+		10,
+		10
+	],
+	"camera_position": [
+		232,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

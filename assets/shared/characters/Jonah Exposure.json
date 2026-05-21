@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jonah Exposure 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Jonah Exposure 2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jonah Exposure",
+	"position": [
+		31,
+		-300
+	],
+	"healthicon": "null",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		0,
+		20
+	],
+	"camera_position": [
+		0,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

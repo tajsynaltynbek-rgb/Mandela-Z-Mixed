@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cesar Exposed Idle"
+		},
+		{
+			"offsets": [
+				-4,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cesar Exposed Left"
+		},
+		{
+			"offsets": [
+				-27,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cesar Exposed Right"
+		},
+		{
+			"offsets": [
+				-18,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cesar Exposed Up"
+		},
+		{
+			"offsets": [
+				-9,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cesar Exposed Down"
+		},
+		{
+			"offsets": [
+				-17,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTm,iss",
+			"indices": [],
+			"name": "Cesar Miss"
+		},
+		{
+			"offsets": [
+				-17,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Cesar Miss"
+		},
+		{
+			"offsets": [
+				-17,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Cesar Miss"
+		},
+		{
+			"offsets": [
+				-17,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Cesar Miss"
+		},
+		{
+			"offsets": [
+				-18,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Cesar Calm Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cesar Exposed",
+	"position": [
+		-110,
+		-90
+	],
+	"healthicon": "empty",
+	"flip_x": true,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		172,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

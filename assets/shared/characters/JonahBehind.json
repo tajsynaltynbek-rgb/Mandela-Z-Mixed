@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "JonahBehind Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "JonahBehind Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "JonahBehind Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				69
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "JonahBehind Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-68
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "JonahBehind Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JonahBehind",
+	"position": [
+		-69,
+		110
+	],
+	"healthicon": "null",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		0,
+		20
+	],
+	"camera_position": [
+		232,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
