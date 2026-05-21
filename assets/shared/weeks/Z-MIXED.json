@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["Think", "dad", [146, 113, 253]],
+	],
+
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Vol 4 (Not Really)",
+	"weekName": "Z-MIXED",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
