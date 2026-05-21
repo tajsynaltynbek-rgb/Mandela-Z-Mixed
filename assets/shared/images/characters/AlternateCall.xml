@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AlternateCall.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="AlternateCall Down0000" x="931" y="1316" width="448" height="406" frameX="2" frameY="-20" frameWidth="444" frameHeight="424"/>
+	<SubTexture name="AlternateCall Down0001" x="931" y="1316" width="448" height="406" frameX="2" frameY="-20" frameWidth="444" frameHeight="424"/>
+	<SubTexture name="AlternateCall Down0002" x="931" y="1316" width="448" height="406" frameX="2" frameY="-20" frameWidth="444" frameHeight="424"/>
+	<SubTexture name="AlternateCall Down0003" x="483" y="1316" width="448" height="428" frameX="2" frameY="2" frameWidth="444" frameHeight="424"/>
+	<SubTexture name="AlternateCall Idle0000" x="0" y="1316" width="483" height="613" frameX="2" frameY="-13" frameWidth="479" frameHeight="624"/>
+	<SubTexture name="AlternateCall Idle0001" x="0" y="1316" width="483" height="613" frameX="2" frameY="-13" frameWidth="479" frameHeight="624"/>
+	<SubTexture name="AlternateCall Idle0002" x="989" y="0" width="482" height="628" frameX="2" frameY="2" frameWidth="479" frameHeight="624"/>
+	<SubTexture name="AlternateCall Idle0003" x="989" y="0" width="482" height="628" frameX="2" frameY="2" frameWidth="479" frameHeight="624"/>
+	<SubTexture name="AlternateCall Idle0004" x="989" y="0" width="482" height="628" frameX="2" frameY="2" frameWidth="479" frameHeight="624"/>
+	<SubTexture name="AlternateCall Idle0005" x="989" y="628" width="478" height="628" frameX="2" frameY="2" frameWidth="479" frameHeight="624"/>
+	<SubTexture name="AlternateCall Left0000" x="449" y="639" width="489" height="621" frameX="2" frameY="2" frameWidth="485" frameHeight="617"/>
+	<SubTexture name="AlternateCall Left0001" x="449" y="639" width="489" height="621" frameX="2" frameY="2" frameWidth="485" frameHeight="617"/>
+	<SubTexture name="AlternateCall Left0002" x="449" y="639" width="489" height="621" frameX="2" frameY="2" frameWidth="485" frameHeight="617"/>
+	<SubTexture name="AlternateCall Left0003" x="1471" y="0" width="485" height="621" frameX="-2" frameY="2" frameWidth="485" frameHeight="617"/>
+	<SubTexture name="AlternateCall Right0000" x="0" y="0" width="501" height="639" frameX="2" frameY="2" frameWidth="497" frameHeight="635"/>
+	<SubTexture name="AlternateCall Right0001" x="0" y="0" width="501" height="639" frameX="2" frameY="2" frameWidth="497" frameHeight="635"/>
+	<SubTexture name="AlternateCall Right0002" x="0" y="0" width="501" height="639" frameX="2" frameY="2" frameWidth="497" frameHeight="635"/>
+	<SubTexture name="AlternateCall Right0003" x="501" y="0" width="488" height="639" frameX="2" frameY="2" frameWidth="497" frameHeight="635"/>
+	<SubTexture name="AlternateCall Up0000" x="0" y="639" width="449" height="677" frameX="0" frameY="2" frameWidth="447" frameHeight="673"/>
+	<SubTexture name="AlternateCall Up0001" x="0" y="639" width="449" height="677" frameX="0" frameY="2" frameWidth="447" frameHeight="673"/>
+	<SubTexture name="AlternateCall Up0002" x="0" y="639" width="449" height="677" frameX="0" frameY="2" frameWidth="447" frameHeight="673"/>
+	<SubTexture name="AlternateCall Up0003" x="1471" y="621" width="451" height="666" frameX="2" frameY="-9" frameWidth="447" frameHeight="673"/>
+</TextureAtlas>

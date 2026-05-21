@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JonahFear.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="JonahFear Down0000" x="1092" y="1256" width="573" height="574" frameX="2" frameY="-19" frameWidth="570" frameHeight="593"/>
+	<SubTexture name="JonahFear Down0001" x="1092" y="1256" width="573" height="574" frameX="2" frameY="-19" frameWidth="570" frameHeight="593"/>
+	<SubTexture name="JonahFear Down0002" x="519" y="1256" width="573" height="586" frameX="2" frameY="-8" frameWidth="570" frameHeight="593"/>
+	<SubTexture name="JonahFear Down0003" x="519" y="1256" width="573" height="586" frameX="2" frameY="-8" frameWidth="570" frameHeight="593"/>
+	<SubTexture name="JonahFear Idle0000" x="1692" y="0" width="564" height="604" frameX="2" frameY="-19" frameWidth="560" frameHeight="623"/>
+	<SubTexture name="JonahFear Idle0001" x="1692" y="0" width="564" height="604" frameX="2" frameY="-19" frameWidth="560" frameHeight="623"/>
+	<SubTexture name="JonahFear Idle0002" x="1135" y="0" width="557" height="613" frameX="0" frameY="-11" frameWidth="560" frameHeight="623"/>
+	<SubTexture name="JonahFear Idle0003" x="1135" y="0" width="557" height="613" frameX="0" frameY="-11" frameWidth="560" frameHeight="623"/>
+	<SubTexture name="JonahFear Idle0004" x="1135" y="613" width="548" height="623" frameX="-4" frameY="-2" frameWidth="560" frameHeight="623"/>
+	<SubTexture name="JonahFear Idle0005" x="1135" y="613" width="548" height="623" frameX="-4" frameY="-2" frameWidth="560" frameHeight="623"/>
+	<SubTexture name="JonahFear Left0000" x="0" y="626" width="560" height="630" frameX="-5" frameY="2" frameWidth="563" frameHeight="627"/>
+	<SubTexture name="JonahFear Left0001" x="0" y="626" width="560" height="630" frameX="-5" frameY="2" frameWidth="563" frameHeight="627"/>
+	<SubTexture name="JonahFear Left0002" x="575" y="0" width="560" height="629" frameX="2" frameY="1" frameWidth="563" frameHeight="627"/>
+	<SubTexture name="JonahFear Left0003" x="575" y="0" width="560" height="629" frameX="2" frameY="1" frameWidth="563" frameHeight="627"/>
+	<SubTexture name="JonahFear Right0000" x="0" y="0" width="575" height="626" frameX="2" frameY="2" frameWidth="571" frameHeight="623"/>
+	<SubTexture name="JonahFear Right0001" x="0" y="0" width="575" height="626" frameX="2" frameY="2" frameWidth="571" frameHeight="623"/>
+	<SubTexture name="JonahFear Right0002" x="575" y="629" width="556" height="624" frameX="-15" frameY="-1" frameWidth="571" frameHeight="623"/>
+	<SubTexture name="JonahFear Right0003" x="575" y="629" width="556" height="624" frameX="-15" frameY="-1" frameWidth="571" frameHeight="623"/>
+	<SubTexture name="JonahFear Up0000" x="0" y="1256" width="519" height="653" frameX="-9" frameY="2" frameWidth="531" frameHeight="650"/>
+	<SubTexture name="JonahFear Up0001" x="0" y="1256" width="519" height="653" frameX="-9" frameY="2" frameWidth="531" frameHeight="650"/>
+	<SubTexture name="JonahFear Up0002" x="1692" y="604" width="519" height="644" frameX="-8" frameY="-7" frameWidth="531" frameHeight="650"/>
+	<SubTexture name="JonahFear Up0003" x="1692" y="604" width="519" height="644" frameX="-8" frameY="-7" frameWidth="531" frameHeight="650"/>
+</TextureAtlas>

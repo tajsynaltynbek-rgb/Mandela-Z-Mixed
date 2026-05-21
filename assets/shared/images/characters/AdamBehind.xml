@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AdamBehind.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="AdamBehind Down0000" x="2177" y="0" width="954" height="969" frameX="2" frameY="-28" frameWidth="950" frameHeight="995"/>
+	<SubTexture name="AdamBehind Down0001" x="2177" y="0" width="954" height="969" frameX="2" frameY="-28" frameWidth="950" frameHeight="995"/>
+	<SubTexture name="AdamBehind Idle0000" x="2177" y="969" width="927" height="987" frameX="2" frameY="-46" frameWidth="923" frameHeight="1031"/>
+	<SubTexture name="AdamBehind Idle0001" x="2177" y="969" width="927" height="987" frameX="2" frameY="-46" frameWidth="923" frameHeight="1031"/>
+	<SubTexture name="AdamBehind Idle0002" x="1250" y="1062" width="926" height="1015" frameX="1" frameY="-18" frameWidth="923" frameHeight="1031"/>
+	<SubTexture name="AdamBehind Idle0003" x="1250" y="1062" width="926" height="1015" frameX="1" frameY="-18" frameWidth="923" frameHeight="1031"/>
+	<SubTexture name="AdamBehind Left0000" x="1250" y="0" width="927" height="1062" frameX="2" frameY="2" frameWidth="923" frameHeight="1058"/>
+	<SubTexture name="AdamBehind Left0001" x="1250" y="0" width="927" height="1062" frameX="2" frameY="2" frameWidth="923" frameHeight="1058"/>
+	<SubTexture name="AdamBehind Right0000" x="0" y="0" width="1250" height="1079" frameX="2" frameY="2" frameWidth="1246" frameHeight="1075"/>
+	<SubTexture name="AdamBehind Right0001" x="0" y="0" width="1250" height="1079" frameX="2" frameY="2" frameWidth="1246" frameHeight="1075"/>
+	<SubTexture name="AdamBehind Up0000" x="0" y="1079" width="911" height="1138" frameX="2" frameY="2" frameWidth="907" frameHeight="1134"/>
+	<SubTexture name="AdamBehind Up0001" x="0" y="1079" width="911" height="1138" frameX="2" frameY="2" frameWidth="907" frameHeight="1134"/>
+</TextureAtlas>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cesar Exposed.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Cesar Calm Idle0000" x="2181" y="616" width="550" height="616" frameX="2" frameY="-6" frameWidth="546" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Idle0001" x="2181" y="616" width="550" height="616" frameX="2" frameY="-6" frameWidth="546" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Idle0002" x="2181" y="616" width="550" height="616" frameX="2" frameY="-6" frameWidth="546" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Idle0003" x="1632" y="624" width="549" height="620" frameX="2" frameY="-2" frameWidth="546" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Idle0004" x="1632" y="624" width="549" height="620" frameX="2" frameY="-2" frameWidth="546" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Idle0005" x="1632" y="624" width="549" height="620" frameX="2" frameY="-2" frameWidth="546" frameHeight="621"/>
+	<SubTexture name="Cesar Exposed Down0000" x="1120" y="1286" width="565" height="589" frameX="2" frameY="-17" frameWidth="562" frameHeight="604"/>
+	<SubTexture name="Cesar Exposed Down0001" x="1120" y="1286" width="565" height="589" frameX="2" frameY="-17" frameWidth="562" frameHeight="604"/>
+	<SubTexture name="Cesar Exposed Down0002" x="1120" y="1286" width="565" height="589" frameX="2" frameY="-17" frameWidth="562" frameHeight="604"/>
+	<SubTexture name="Cesar Exposed Down0003" x="562" y="1286" width="558" height="602" frameX="-1" frameY="-4" frameWidth="562" frameHeight="604"/>
+	<SubTexture name="Cesar Exposed Idle0000" x="0" y="1286" width="562" height="604" frameX="2" frameY="-18" frameWidth="559" frameHeight="621"/>
+	<SubTexture name="Cesar Exposed Idle0001" x="0" y="1286" width="562" height="604" frameX="2" frameY="-18" frameWidth="559" frameHeight="621"/>
+	<SubTexture name="Cesar Exposed Idle0002" x="0" y="1286" width="562" height="604" frameX="2" frameY="-18" frameWidth="559" frameHeight="621"/>
+	<SubTexture name="Cesar Exposed Idle0003" x="2181" y="0" width="550" height="616" frameX="-5" frameY="-7" frameWidth="559" frameHeight="621"/>
+	<SubTexture name="Cesar Exposed Idle0004" x="2181" y="0" width="550" height="616" frameX="-5" frameY="-7" frameWidth="559" frameHeight="621"/>
+	<SubTexture name="Cesar Exposed Idle0005" x="2181" y="0" width="550" height="616" frameX="-5" frameY="-7" frameWidth="559" frameHeight="621"/>
+	<SubTexture name="Cesar Exposed Left0000" x="533" y="0" width="553" height="631" frameX="2" frameY="2" frameWidth="551" frameHeight="627"/>
+	<SubTexture name="Cesar Exposed Left0001" x="533" y="0" width="553" height="631" frameX="2" frameY="2" frameWidth="551" frameHeight="627"/>
+	<SubTexture name="Cesar Exposed Left0002" x="533" y="0" width="553" height="631" frameX="2" frameY="2" frameWidth="551" frameHeight="627"/>
+	<SubTexture name="Cesar Exposed Left0003" x="0" y="655" width="550" height="631" frameX="-3" frameY="2" frameWidth="551" frameHeight="627"/>
+	<SubTexture name="Cesar Exposed Right0000" x="550" y="655" width="550" height="628" frameX="1" frameY="2" frameWidth="547" frameHeight="624"/>
+	<SubTexture name="Cesar Exposed Right0001" x="550" y="655" width="550" height="628" frameX="1" frameY="2" frameWidth="547" frameHeight="624"/>
+	<SubTexture name="Cesar Exposed Right0002" x="550" y="655" width="550" height="628" frameX="1" frameY="2" frameWidth="547" frameHeight="624"/>
+	<SubTexture name="Cesar Exposed Right0003" x="1632" y="0" width="549" height="624" frameX="2" frameY="-2" frameWidth="547" frameHeight="624"/>
+	<SubTexture name="Cesar Exposed Up0000" x="0" y="0" width="533" height="655" frameX="-4" frameY="2" frameWidth="543" frameHeight="651"/>
+	<SubTexture name="Cesar Exposed Up0001" x="0" y="0" width="533" height="655" frameX="-4" frameY="2" frameWidth="543" frameHeight="651"/>
+	<SubTexture name="Cesar Exposed Up0002" x="0" y="0" width="533" height="655" frameX="-4" frameY="2" frameWidth="543" frameHeight="651"/>
+	<SubTexture name="Cesar Exposed Up0003" x="1086" y="0" width="546" height="637" frameX="2" frameY="-14" frameWidth="543" frameHeight="651"/>
+</TextureAtlas>

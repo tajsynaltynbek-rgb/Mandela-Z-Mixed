@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cesar.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Cesar Down0000" x="778" y="1011" width="392" height="370" frameX="-1" frameY="-39" frameWidth="403" frameHeight="437"/>
+	<SubTexture name="Cesar Down0001" x="778" y="1011" width="392" height="370" frameX="-1" frameY="-39" frameWidth="403" frameHeight="437"/>
+	<SubTexture name="Cesar Down0002" x="778" y="1011" width="392" height="370" frameX="-1" frameY="-39" frameWidth="403" frameHeight="437"/>
+	<SubTexture name="Cesar Down0003" x="390" y="1011" width="388" height="388" frameX="-5" frameY="-21" frameWidth="403" frameHeight="437"/>
+	<SubTexture name="Cesar Idle0000" x="0" y="1011" width="390" height="460" frameX="-3" frameY="-16" frameWidth="403" frameHeight="504"/>
+	<SubTexture name="Cesar Idle0001" x="0" y="1011" width="390" height="460" frameX="-3" frameY="-16" frameWidth="403" frameHeight="504"/>
+	<SubTexture name="Cesar Idle0002" x="1197" y="474" width="389" height="469" frameX="-4" frameY="-7" frameWidth="403" frameHeight="504"/>
+	<SubTexture name="Cesar Idle0003" x="1197" y="474" width="389" height="469" frameX="-4" frameY="-7" frameWidth="403" frameHeight="504"/>
+	<SubTexture name="Cesar Idle0004" x="1197" y="474" width="389" height="469" frameX="-4" frameY="-7" frameWidth="403" frameHeight="504"/>
+	<SubTexture name="Cesar Idle0005" x="1197" y="0" width="389" height="474" frameX="-4" frameY="-2" frameWidth="403" frameHeight="504"/>
+	<SubTexture name="Cesar Left0000" x="389" y="0" width="419" height="471" frameX="2" frameY="1" frameWidth="434" frameHeight="498"/>
+	<SubTexture name="Cesar Left0001" x="389" y="0" width="419" height="471" frameX="2" frameY="1" frameWidth="434" frameHeight="498"/>
+	<SubTexture name="Cesar Left0002" x="389" y="0" width="419" height="471" frameX="2" frameY="1" frameWidth="434" frameHeight="498"/>
+	<SubTexture name="Cesar Left0003" x="778" y="517" width="400" height="471" frameX="-23" frameY="1" frameWidth="434" frameHeight="498"/>
+	<SubTexture name="Cesar Right0000" x="0" y="517" width="389" height="494" frameX="-6" frameY="2" frameWidth="405" frameHeight="521"/>
+	<SubTexture name="Cesar Right0001" x="0" y="517" width="389" height="494" frameX="-6" frameY="2" frameWidth="405" frameHeight="521"/>
+	<SubTexture name="Cesar Right0002" x="0" y="517" width="389" height="494" frameX="-6" frameY="2" frameWidth="405" frameHeight="521"/>
+	<SubTexture name="Cesar Right0003" x="389" y="517" width="389" height="489" frameX="-5" frameY="-3" frameWidth="405" frameHeight="521"/>
+	<SubTexture name="Cesar Up0000" x="0" y="0" width="389" height="517" frameX="-6" frameY="2" frameWidth="405" frameHeight="546"/>
+	<SubTexture name="Cesar Up0001" x="0" y="0" width="389" height="517" frameX="-6" frameY="2" frameWidth="405" frameHeight="546"/>
+	<SubTexture name="Cesar Up0002" x="0" y="0" width="389" height="517" frameX="-6" frameY="2" frameWidth="405" frameHeight="546"/>
+	<SubTexture name="Cesar Up0003" x="808" y="0" width="389" height="504" frameX="-4" frameY="-12" frameWidth="405" frameHeight="546"/>
+</TextureAtlas>

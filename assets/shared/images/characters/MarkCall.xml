@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MarkCall.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="MarkCall Down0000" x="1686" y="0" width="573" height="604" frameX="2" frameY="-16" frameWidth="569" frameHeight="618"/>
+	<SubTexture name="MarkCall Down0001" x="1686" y="0" width="573" height="604" frameX="2" frameY="-16" frameWidth="569" frameHeight="618"/>
+	<SubTexture name="MarkCall Down0002" x="0" y="1282" width="562" height="610" frameX="-3" frameY="-9" frameWidth="569" frameHeight="618"/>
+	<SubTexture name="MarkCall Down0003" x="0" y="1282" width="562" height="610" frameX="-3" frameY="-9" frameWidth="569" frameHeight="618"/>
+	<SubTexture name="MarkCall Idle0000" x="550" y="639" width="565" height="621" frameX="2" frameY="-14" frameWidth="561" frameHeight="634"/>
+	<SubTexture name="MarkCall Idle0001" x="550" y="639" width="565" height="621" frameX="2" frameY="-14" frameWidth="561" frameHeight="634"/>
+	<SubTexture name="MarkCall Idle0002" x="1131" y="0" width="555" height="630" frameX="2" frameY="-6" frameWidth="561" frameHeight="634"/>
+	<SubTexture name="MarkCall Idle0003" x="1131" y="0" width="555" height="630" frameX="2" frameY="-6" frameWidth="561" frameHeight="634"/>
+	<SubTexture name="MarkCall Idle0004" x="1131" y="630" width="541" height="635" frameX="-3" frameY="-1" frameWidth="561" frameHeight="634"/>
+	<SubTexture name="MarkCall Idle0005" x="1131" y="630" width="541" height="635" frameX="-3" frameY="-1" frameWidth="561" frameHeight="634"/>
+	<SubTexture name="MarkCall Left0000" x="0" y="639" width="550" height="643" frameX="2" frameY="2" frameWidth="546" frameHeight="639"/>
+	<SubTexture name="MarkCall Left0001" x="0" y="639" width="550" height="643" frameX="2" frameY="2" frameWidth="546" frameHeight="639"/>
+	<SubTexture name="MarkCall Left0002" x="1686" y="604" width="538" height="639" frameX="-7" frameY="-2" frameWidth="546" frameHeight="639"/>
+	<SubTexture name="MarkCall Left0003" x="1686" y="604" width="538" height="639" frameX="-7" frameY="-2" frameWidth="546" frameHeight="639"/>
+	<SubTexture name="MarkCall Right0000" x="0" y="0" width="569" height="639" frameX="2" frameY="2" frameWidth="565" frameHeight="635"/>
+	<SubTexture name="MarkCall Right0001" x="0" y="0" width="569" height="639" frameX="2" frameY="2" frameWidth="565" frameHeight="635"/>
+	<SubTexture name="MarkCall Right0002" x="569" y="0" width="562" height="636" frameX="1" frameY="-1" frameWidth="565" frameHeight="635"/>
+	<SubTexture name="MarkCall Right0003" x="569" y="0" width="562" height="636" frameX="1" frameY="-1" frameWidth="565" frameHeight="635"/>
+	<SubTexture name="MarkCall Up0000" x="2259" y="0" width="507" height="666" frameX="-2" frameY="2" frameWidth="515" frameHeight="663"/>
+	<SubTexture name="MarkCall Up0001" x="2259" y="0" width="507" height="666" frameX="-2" frameY="2" frameWidth="515" frameHeight="663"/>
+	<SubTexture name="MarkCall Up0002" x="0" y="1892" width="515" height="654" frameX="2" frameY="-10" frameWidth="515" frameHeight="663"/>
+	<SubTexture name="MarkCall Up0003" x="0" y="1892" width="515" height="654" frameX="2" frameY="-10" frameWidth="515" frameHeight="663"/>
+</TextureAtlas>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cesar Calm.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Cesar Calm Down0000" x="1105" y="1267" width="556" height="595" frameX="2" frameY="-13" frameWidth="552" frameHeight="606"/>
+	<SubTexture name="Cesar Calm Down0001" x="1105" y="1267" width="556" height="595" frameX="2" frameY="-13" frameWidth="552" frameHeight="606"/>
+	<SubTexture name="Cesar Calm Down0002" x="1105" y="1267" width="556" height="595" frameX="2" frameY="-13" frameWidth="552" frameHeight="606"/>
+	<SubTexture name="Cesar Calm Down0003" x="550" y="1267" width="555" height="605" frameX="2" frameY="-3" frameWidth="552" frameHeight="606"/>
+	<SubTexture name="Cesar Calm Idle0000" x="0" y="1267" width="550" height="616" frameX="2" frameY="-6" frameWidth="546" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Idle0001" x="0" y="1267" width="550" height="616" frameX="2" frameY="-6" frameWidth="546" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Idle0002" x="0" y="1267" width="550" height="616" frameX="2" frameY="-6" frameWidth="546" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Idle0003" x="550" y="642" width="549" height="620" frameX="2" frameY="-2" frameWidth="546" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Idle0004" x="550" y="642" width="549" height="620" frameX="2" frameY="-2" frameWidth="546" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Idle0005" x="550" y="642" width="549" height="620" frameX="2" frameY="-2" frameWidth="546" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Left0000" x="1639" y="0" width="548" height="627" frameX="2" frameY="2" frameWidth="546" frameHeight="623"/>
+	<SubTexture name="Cesar Calm Left0001" x="1639" y="0" width="548" height="627" frameX="2" frameY="2" frameWidth="546" frameHeight="623"/>
+	<SubTexture name="Cesar Calm Left0002" x="1639" y="0" width="548" height="627" frameX="2" frameY="2" frameWidth="546" frameHeight="623"/>
+	<SubTexture name="Cesar Calm Left0003" x="539" y="0" width="550" height="625" frameX="2" frameY="0" frameWidth="546" frameHeight="623"/>
+	<SubTexture name="Cesar Calm Right0000" x="0" y="642" width="550" height="625" frameX="-1" frameY="2" frameWidth="549" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Right0001" x="0" y="642" width="550" height="625" frameX="-1" frameY="2" frameWidth="549" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Right0002" x="0" y="642" width="550" height="625" frameX="-1" frameY="2" frameWidth="549" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Right0003" x="1089" y="0" width="550" height="625" frameX="2" frameY="2" frameWidth="549" frameHeight="621"/>
+	<SubTexture name="Cesar Calm Up0000" x="0" y="0" width="539" height="642" frameX="2" frameY="2" frameWidth="535" frameHeight="638"/>
+	<SubTexture name="Cesar Calm Up0001" x="0" y="0" width="539" height="642" frameX="2" frameY="2" frameWidth="535" frameHeight="638"/>
+	<SubTexture name="Cesar Calm Up0002" x="0" y="0" width="539" height="642" frameX="2" frameY="2" frameWidth="535" frameHeight="638"/>
+	<SubTexture name="Cesar Calm Up0003" x="1639" y="627" width="539" height="633" frameX="2" frameY="-6" frameWidth="535" frameHeight="638"/>
+</TextureAtlas>

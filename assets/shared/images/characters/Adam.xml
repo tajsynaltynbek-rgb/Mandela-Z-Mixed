@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Adam.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Adam Down0000" x="580" y="670" width="578" height="616" frameX="2" frameY="-13" frameWidth="574" frameHeight="628"/>
+	<SubTexture name="Adam Down0001" x="580" y="670" width="578" height="616" frameX="2" frameY="-13" frameWidth="574" frameHeight="628"/>
+	<SubTexture name="Adam Down0002" x="1115" y="1296" width="568" height="624" frameX="-3" frameY="-6" frameWidth="574" frameHeight="628"/>
+	<SubTexture name="Adam Down0003" x="1115" y="1296" width="568" height="624" frameX="-3" frameY="-6" frameWidth="574" frameHeight="628"/>
+	<SubTexture name="Adam Idle0000" x="0" y="670" width="580" height="626" frameX="2" frameY="-22" frameWidth="577" frameHeight="646"/>
+	<SubTexture name="Adam Idle0001" x="0" y="670" width="580" height="626" frameX="2" frameY="-22" frameWidth="577" frameHeight="646"/>
+	<SubTexture name="Adam Idle0002" x="1106" y="0" width="570" height="638" frameX="-4" frameY="-10" frameWidth="577" frameHeight="646"/>
+	<SubTexture name="Adam Idle0003" x="1106" y="0" width="570" height="638" frameX="-4" frameY="-10" frameWidth="577" frameHeight="646"/>
+	<SubTexture name="Adam Idle0004" x="0" y="1296" width="558" height="647" frameX="-11" frameY="-1" frameWidth="577" frameHeight="646"/>
+	<SubTexture name="Adam Idle0005" x="0" y="1296" width="558" height="647" frameX="-11" frameY="-1" frameWidth="577" frameHeight="646"/>
+	<SubTexture name="Adam Left0000" x="548" y="0" width="558" height="652" frameX="2" frameY="2" frameWidth="559" frameHeight="648"/>
+	<SubTexture name="Adam Left0001" x="548" y="0" width="558" height="652" frameX="2" frameY="2" frameWidth="559" frameHeight="648"/>
+	<SubTexture name="Adam Left0002" x="1676" y="0" width="559" height="648" frameX="0" frameY="-2" frameWidth="559" frameHeight="648"/>
+	<SubTexture name="Adam Left0003" x="1676" y="0" width="559" height="648" frameX="0" frameY="-2" frameWidth="559" frameHeight="648"/>
+	<SubTexture name="Adam Right0000" x="1676" y="648" width="558" height="648" frameX="-3" frameY="2" frameWidth="559" frameHeight="644"/>
+	<SubTexture name="Adam Right0001" x="1676" y="648" width="558" height="648" frameX="-3" frameY="2" frameWidth="559" frameHeight="644"/>
+	<SubTexture name="Adam Right0002" x="558" y="1296" width="557" height="645" frameX="0" frameY="-1" frameWidth="559" frameHeight="644"/>
+	<SubTexture name="Adam Right0003" x="558" y="1296" width="557" height="645" frameX="0" frameY="-1" frameWidth="559" frameHeight="644"/>
+	<SubTexture name="Adam Up0000" x="0" y="0" width="548" height="670" frameX="1" frameY="2" frameWidth="549" frameHeight="667"/>
+	<SubTexture name="Adam Up0001" x="0" y="0" width="548" height="670" frameX="1" frameY="2" frameWidth="549" frameHeight="667"/>
+	<SubTexture name="Adam Up0002" x="2235" y="0" width="547" height="660" frameX="0" frameY="-9" frameWidth="549" frameHeight="667"/>
+	<SubTexture name="Adam Up0003" x="2235" y="0" width="547" height="660" frameX="0" frameY="-9" frameWidth="549" frameHeight="667"/>
+</TextureAtlas>

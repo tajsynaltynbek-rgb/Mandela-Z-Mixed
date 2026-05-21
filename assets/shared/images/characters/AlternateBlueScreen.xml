@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AlternateBlueScreen.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="AlternateBlueScreen Down0000" x="2864" y="1282" width="498" height="866" frameX="2" frameY="-30" frameWidth="494" frameHeight="894"/>
+	<SubTexture name="AlternateBlueScreen Down0001" x="2864" y="1282" width="498" height="866" frameX="2" frameY="-30" frameWidth="494" frameHeight="894"/>
+	<SubTexture name="AlternateBlueScreen Down0002" x="2864" y="1282" width="498" height="866" frameX="2" frameY="-30" frameWidth="494" frameHeight="894"/>
+	<SubTexture name="AlternateBlueScreen Down0003" x="3406" y="1383" width="457" height="890" frameX="-39" frameY="-6" frameWidth="494" frameHeight="894"/>
+	<SubTexture name="AlternateBlueScreen Idle0000" x="2316" y="0" width="548" height="1276" frameX="2" frameY="-10" frameWidth="544" frameHeight="1284"/>
+	<SubTexture name="AlternateBlueScreen Idle0001" x="2316" y="0" width="548" height="1276" frameX="2" frameY="-10" frameWidth="544" frameHeight="1284"/>
+	<SubTexture name="AlternateBlueScreen Idle0002" x="2316" y="0" width="548" height="1276" frameX="2" frameY="-10" frameWidth="544" frameHeight="1284"/>
+	<SubTexture name="AlternateBlueScreen Idle0003" x="2864" y="0" width="542" height="1282" frameX="2" frameY="-4" frameWidth="544" frameHeight="1284"/>
+	<SubTexture name="AlternateBlueScreen Idle0004" x="2864" y="0" width="542" height="1282" frameX="2" frameY="-4" frameWidth="544" frameHeight="1284"/>
+	<SubTexture name="AlternateBlueScreen Idle0005" x="2864" y="0" width="542" height="1282" frameX="2" frameY="-4" frameWidth="544" frameHeight="1284"/>
+	<SubTexture name="AlternateBlueScreen Left0000" x="0" y="0" width="943" height="1229" frameX="2" frameY="-11" frameWidth="953" frameHeight="1238"/>
+	<SubTexture name="AlternateBlueScreen Left0001" x="0" y="0" width="943" height="1229" frameX="2" frameY="-11" frameWidth="953" frameHeight="1238"/>
+	<SubTexture name="AlternateBlueScreen Left0002" x="0" y="0" width="943" height="1229" frameX="2" frameY="-11" frameWidth="953" frameHeight="1238"/>
+	<SubTexture name="AlternateBlueScreen Left0003" x="0" y="1229" width="854" height="1241" frameX="-101" frameY="1" frameWidth="953" frameHeight="1238"/>
+	<SubTexture name="AlternateBlueScreen Right0000" x="943" y="0" width="710" height="1269" frameX="-19" frameY="2" frameWidth="727" frameHeight="1265"/>
+	<SubTexture name="AlternateBlueScreen Right0001" x="943" y="0" width="710" height="1269" frameX="-19" frameY="2" frameWidth="727" frameHeight="1265"/>
+	<SubTexture name="AlternateBlueScreen Right0002" x="943" y="0" width="710" height="1269" frameX="-19" frameY="2" frameWidth="727" frameHeight="1265"/>
+	<SubTexture name="AlternateBlueScreen Right0003" x="1653" y="0" width="663" height="1252" frameX="-6" frameY="-15" frameWidth="727" frameHeight="1265"/>
+	<SubTexture name="AlternateBlueScreen Up0000" x="0" y="2470" width="441" height="1394" frameX="-6" frameY="2" frameWidth="456" frameHeight="1390"/>
+	<SubTexture name="AlternateBlueScreen Up0001" x="0" y="2470" width="441" height="1394" frameX="-6" frameY="2" frameWidth="456" frameHeight="1390"/>
+	<SubTexture name="AlternateBlueScreen Up0002" x="0" y="2470" width="441" height="1394" frameX="-6" frameY="2" frameWidth="456" frameHeight="1390"/>
+	<SubTexture name="AlternateBlueScreen Up0003" x="3406" y="0" width="460" height="1383" frameX="2" frameY="-9" frameWidth="456" frameHeight="1390"/>
+</TextureAtlas>

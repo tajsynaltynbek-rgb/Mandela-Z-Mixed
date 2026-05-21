@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JonahBehind.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="JonahBehind Down0000" x="2174" y="1157" width="1093" height="1098" frameX="2" frameY="-30" frameWidth="1089" frameHeight="1126"/>
+	<SubTexture name="JonahBehind Idle0000" x="2174" y="0" width="1115" height="1157" frameX="2" frameY="-20" frameWidth="1113" frameHeight="1175"/>
+	<SubTexture name="JonahBehind Left0000" x="0" y="0" width="1086" height="1203" frameX="2" frameY="2" frameWidth="1082" frameHeight="1199"/>
+	<SubTexture name="JonahBehind Right0000" x="1086" y="0" width="1088" height="1191" frameX="-1" frameY="2" frameWidth="1087" frameHeight="1187"/>
+	<SubTexture name="JonahBehind Up0000" x="0" y="1203" width="1061" height="1231" frameX="2" frameY="2" frameWidth="1057" frameHeight="1227"/>
+</TextureAtlas>

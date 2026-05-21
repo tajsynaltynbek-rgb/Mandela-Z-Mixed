@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jonah.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Jonah Down0000" x="1656" y="1258" width="573" height="574" frameX="2" frameY="-19" frameWidth="570" frameHeight="593"/>
+	<SubTexture name="Jonah Down0001" x="1656" y="1258" width="573" height="574" frameX="2" frameY="-19" frameWidth="570" frameHeight="593"/>
+	<SubTexture name="Jonah Down0002" x="1083" y="1258" width="573" height="586" frameX="2" frameY="-8" frameWidth="570" frameHeight="593"/>
+	<SubTexture name="Jonah Down0003" x="1083" y="1258" width="573" height="586" frameX="2" frameY="-8" frameWidth="570" frameHeight="593"/>
+	<SubTexture name="Jonah Idle0000" x="519" y="1258" width="564" height="600" frameX="2" frameY="-21" frameWidth="560" frameHeight="621"/>
+	<SubTexture name="Jonah Idle0001" x="519" y="1258" width="564" height="600" frameX="2" frameY="-21" frameWidth="560" frameHeight="621"/>
+	<SubTexture name="Jonah Idle0002" x="1672" y="0" width="557" height="609" frameX="0" frameY="-13" frameWidth="560" frameHeight="621"/>
+	<SubTexture name="Jonah Idle0003" x="1672" y="0" width="557" height="609" frameX="0" frameY="-13" frameWidth="560" frameHeight="621"/>
+	<SubTexture name="Jonah Idle0004" x="1124" y="0" width="548" height="620" frameX="-4" frameY="-3" frameWidth="560" frameHeight="621"/>
+	<SubTexture name="Jonah Idle0005" x="1124" y="0" width="548" height="620" frameX="-4" frameY="-3" frameWidth="560" frameHeight="621"/>
+	<SubTexture name="Jonah Left0000" x="0" y="0" width="564" height="627" frameX="2" frameY="2" frameWidth="560" frameHeight="623"/>
+	<SubTexture name="Jonah Left0001" x="0" y="0" width="564" height="627" frameX="2" frameY="2" frameWidth="560" frameHeight="623"/>
+	<SubTexture name="Jonah Left0002" x="564" y="629" width="557" height="624" frameX="-2" frameY="-1" frameWidth="560" frameHeight="623"/>
+	<SubTexture name="Jonah Left0003" x="564" y="629" width="557" height="624" frameX="-2" frameY="-1" frameWidth="560" frameHeight="623"/>
+	<SubTexture name="Jonah Right0000" x="0" y="627" width="560" height="631" frameX="-1" frameY="2" frameWidth="559" frameHeight="627"/>
+	<SubTexture name="Jonah Right0001" x="0" y="627" width="560" height="631" frameX="-1" frameY="2" frameWidth="559" frameHeight="627"/>
+	<SubTexture name="Jonah Right0002" x="564" y="0" width="560" height="629" frameX="2" frameY="1" frameWidth="559" frameHeight="627"/>
+	<SubTexture name="Jonah Right0003" x="564" y="0" width="560" height="629" frameX="2" frameY="1" frameWidth="559" frameHeight="627"/>
+	<SubTexture name="Jonah Up0000" x="0" y="1258" width="519" height="653" frameX="-9" frameY="2" frameWidth="531" frameHeight="650"/>
+	<SubTexture name="Jonah Up0001" x="0" y="1258" width="519" height="653" frameX="-9" frameY="2" frameWidth="531" frameHeight="650"/>
+	<SubTexture name="Jonah Up0002" x="1672" y="609" width="519" height="644" frameX="-8" frameY="-7" frameWidth="531" frameHeight="650"/>
+	<SubTexture name="Jonah Up0003" x="1672" y="609" width="519" height="644" frameX="-8" frameY="-7" frameWidth="531" frameHeight="650"/>
+</TextureAtlas>

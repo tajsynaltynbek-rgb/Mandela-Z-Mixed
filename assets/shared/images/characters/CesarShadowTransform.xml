@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CesarShadowTransform.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="CesarShadow Transform0000" x="1348" y="1258" width="4" height="4" frameX="0" frameY="0" frameWidth="834" frameHeight="1478"/>
+	<SubTexture name="CesarShadow Transform0001" x="1348" y="0" width="557" height="1258" frameX="-182" frameY="-222" frameWidth="834" frameHeight="1478"/>
+	<SubTexture name="CesarShadow Transform0002" x="1348" y="1258" width="4" height="4" frameX="0" frameY="0" frameWidth="834" frameHeight="1478"/>
+	<SubTexture name="CesarShadow Transform0003" x="750" y="0" width="598" height="1321" frameX="-112" frameY="-159" frameWidth="834" frameHeight="1478"/>
+	<SubTexture name="CesarShadow Transform0004" x="1348" y="1258" width="4" height="4" frameX="0" frameY="0" frameWidth="834" frameHeight="1478"/>
+	<SubTexture name="CesarShadow Transform0005" x="0" y="0" width="750" height="1422" frameX="-48" frameY="-58" frameWidth="834" frameHeight="1478"/>
+	<SubTexture name="CesarShadow Transform0006" x="1348" y="1258" width="4" height="4" frameX="0" frameY="0" frameWidth="834" frameHeight="1478"/>
+</TextureAtlas>

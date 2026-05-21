@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cesar Alternate.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Cesar Alternate Eyes Alt Idle0000" x="1100" y="0" width="550" height="654" frameX="2" frameY="2" frameWidth="547" frameHeight="650"/>
+	<SubTexture name="Cesar Alternate Eyes Alt Idle0001" x="0" y="654" width="549" height="654" frameX="1" frameY="2" frameWidth="547" frameHeight="650"/>
+	<SubTexture name="Cesar Alternate Eyes Idle0000" x="0" y="0" width="550" height="654" frameX="2" frameY="2" frameWidth="547" frameHeight="650"/>
+	<SubTexture name="Cesar Alternate Eyes Idle0001" x="550" y="0" width="550" height="654" frameX="1" frameY="2" frameWidth="547" frameHeight="650"/>
+	<SubTexture name="funnyboy0000" x="549" y="654" width="549" height="653" frameX="2" frameY="2" frameWidth="549" frameHeight="650"/>
+	<SubTexture name="funnyboy0001" x="1098" y="654" width="549" height="653" frameX="1" frameY="2" frameWidth="549" frameHeight="650"/>
+	<SubTexture name="funnyboy0002" x="1650" y="0" width="549" height="653" frameX="2" frameY="2" frameWidth="549" frameHeight="650"/>
+	<SubTexture name="funnyboy0003" x="1650" y="653" width="549" height="653" frameX="1" frameY="2" frameWidth="549" frameHeight="650"/>
+</TextureAtlas>

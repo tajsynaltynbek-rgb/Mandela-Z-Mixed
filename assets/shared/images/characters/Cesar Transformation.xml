@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cesar Transformation.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Cesar Transformation 0000" x="2221" y="0" width="549" height="625" frameX="2" frameY="2" frameWidth="545" frameHeight="621"/>
+	<SubTexture name="Cesar Transformation 0001" x="2221" y="0" width="549" height="625" frameX="2" frameY="2" frameWidth="545" frameHeight="621"/>
+	<SubTexture name="Cesar Transformation 0002" x="2221" y="0" width="549" height="625" frameX="2" frameY="2" frameWidth="545" frameHeight="621"/>
+	<SubTexture name="Cesar Transformation 0003" x="2221" y="0" width="549" height="625" frameX="2" frameY="2" frameWidth="545" frameHeight="621"/>
+	<SubTexture name="Cesar Transformation 0004" x="1611" y="883" width="541" height="690" frameX="2" frameY="2" frameWidth="537" frameHeight="686"/>
+	<SubTexture name="Cesar Transformation 0005" x="1611" y="883" width="541" height="690" frameX="2" frameY="2" frameWidth="537" frameHeight="686"/>
+	<SubTexture name="Cesar Transformation 0006" x="2221" y="625" width="397" height="738" frameX="2" frameY="2" frameWidth="393" frameHeight="734"/>
+	<SubTexture name="Cesar Transformation 0007" x="2221" y="625" width="397" height="738" frameX="2" frameY="2" frameWidth="393" frameHeight="734"/>
+	<SubTexture name="Cesar Transformation 0008" x="1611" y="0" width="610" height="883" frameX="2" frameY="2" frameWidth="606" frameHeight="879"/>
+	<SubTexture name="Cesar Transformation 0009" x="1611" y="0" width="610" height="883" frameX="2" frameY="2" frameWidth="606" frameHeight="879"/>
+	<SubTexture name="Cesar Transformation 0010" x="813" y="0" width="798" height="1147" frameX="2" frameY="2" frameWidth="794" frameHeight="1143"/>
+	<SubTexture name="Cesar Transformation 0011" x="813" y="0" width="798" height="1147" frameX="2" frameY="2" frameWidth="794" frameHeight="1143"/>
+	<SubTexture name="Cesar Transformation 0012" x="0" y="0" width="813" height="1638" frameX="2" frameY="2" frameWidth="809" frameHeight="1634"/>
+</TextureAtlas>

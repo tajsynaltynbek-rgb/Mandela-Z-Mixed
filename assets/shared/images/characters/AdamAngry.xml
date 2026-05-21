@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AdamAngry.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="AdamAngry Down0000" x="1115" y="1320" width="578" height="616" frameX="2" frameY="-13" frameWidth="574" frameHeight="628"/>
+	<SubTexture name="AdamAngry Down0001" x="1115" y="1320" width="578" height="616" frameX="2" frameY="-13" frameWidth="574" frameHeight="628"/>
+	<SubTexture name="AdamAngry Down0002" x="2246" y="0" width="568" height="624" frameX="-3" frameY="-6" frameWidth="574" frameHeight="628"/>
+	<SubTexture name="AdamAngry Down0003" x="2246" y="0" width="568" height="624" frameX="-3" frameY="-6" frameWidth="574" frameHeight="628"/>
+	<SubTexture name="AdamAngry Idle0000" x="548" y="0" width="580" height="628" frameX="2" frameY="-20" frameWidth="577" frameHeight="646"/>
+	<SubTexture name="AdamAngry Idle0001" x="548" y="0" width="580" height="628" frameX="2" frameY="-20" frameWidth="577" frameHeight="646"/>
+	<SubTexture name="AdamAngry Idle0002" x="558" y="670" width="570" height="636" frameX="-4" frameY="-12" frameWidth="577" frameHeight="646"/>
+	<SubTexture name="AdamAngry Idle0003" x="558" y="670" width="570" height="636" frameX="-4" frameY="-12" frameWidth="577" frameHeight="646"/>
+	<SubTexture name="AdamAngry Idle0004" x="0" y="1320" width="558" height="646" frameX="-11" frameY="-2" frameWidth="577" frameHeight="646"/>
+	<SubTexture name="AdamAngry Idle0005" x="0" y="1320" width="558" height="646" frameX="-11" frameY="-2" frameWidth="577" frameHeight="646"/>
+	<SubTexture name="AdamAngry Left0000" x="1128" y="0" width="559" height="650" frameX="2" frameY="2" frameWidth="559" frameHeight="646"/>
+	<SubTexture name="AdamAngry Left0001" x="1128" y="0" width="559" height="650" frameX="2" frameY="2" frameWidth="559" frameHeight="646"/>
+	<SubTexture name="AdamAngry Left0002" x="1687" y="0" width="559" height="647" frameX="0" frameY="-1" frameWidth="559" frameHeight="646"/>
+	<SubTexture name="AdamAngry Left0003" x="1687" y="0" width="559" height="647" frameX="0" frameY="-1" frameWidth="559" frameHeight="646"/>
+	<SubTexture name="AdamAngry Right0000" x="0" y="670" width="558" height="650" frameX="-3" frameY="1" frameWidth="559" frameHeight="647"/>
+	<SubTexture name="AdamAngry Right0001" x="0" y="670" width="558" height="650" frameX="-3" frameY="1" frameWidth="559" frameHeight="647"/>
+	<SubTexture name="AdamAngry Right0002" x="558" y="1320" width="557" height="645" frameX="0" frameY="-4" frameWidth="559" frameHeight="647"/>
+	<SubTexture name="AdamAngry Right0003" x="558" y="1320" width="557" height="645" frameX="0" frameY="-4" frameWidth="559" frameHeight="647"/>
+	<SubTexture name="AdamAngry Up0000" x="0" y="0" width="548" height="670" frameX="1" frameY="2" frameWidth="549" frameHeight="667"/>
+	<SubTexture name="AdamAngry Up0001" x="0" y="0" width="548" height="670" frameX="1" frameY="2" frameWidth="549" frameHeight="667"/>
+	<SubTexture name="AdamAngry Up0002" x="1687" y="647" width="547" height="660" frameX="0" frameY="-9" frameWidth="549" frameHeight="667"/>
+	<SubTexture name="AdamAngry Up0003" x="1687" y="647" width="547" height="660" frameX="0" frameY="-9" frameWidth="549" frameHeight="667"/>
+</TextureAtlas>

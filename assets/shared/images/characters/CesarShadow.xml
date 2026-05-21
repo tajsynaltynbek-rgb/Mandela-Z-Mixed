@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CesarShadow.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="CesarShadow Down0000" x="2215" y="0" width="763" height="1070" frameX="2" frameY="-72" frameWidth="759" frameHeight="1140"/>
+	<SubTexture name="CesarShadow Down0001" x="2215" y="0" width="763" height="1070" frameX="2" frameY="-72" frameWidth="759" frameHeight="1140"/>
+	<SubTexture name="CesarShadow Down0002" x="2215" y="0" width="763" height="1070" frameX="2" frameY="-72" frameWidth="759" frameHeight="1140"/>
+	<SubTexture name="CesarShadow Idle0000" x="572" y="1270" width="566" height="1255" frameX="2" frameY="-14" frameWidth="562" frameHeight="1267"/>
+	<SubTexture name="CesarShadow Idle0001" x="572" y="1270" width="566" height="1255" frameX="2" frameY="-14" frameWidth="562" frameHeight="1267"/>
+	<SubTexture name="CesarShadow Idle0002" x="572" y="1270" width="566" height="1255" frameX="2" frameY="-14" frameWidth="562" frameHeight="1267"/>
+	<SubTexture name="CesarShadow Idle0003" x="2978" y="0" width="556" height="1263" frameX="-3" frameY="-6" frameWidth="562" frameHeight="1267"/>
+	<SubTexture name="CesarShadow Idle0004" x="2978" y="0" width="556" height="1263" frameX="-3" frameY="-6" frameWidth="562" frameHeight="1267"/>
+	<SubTexture name="CesarShadow Left0000" x="1531" y="0" width="684" height="1266" frameX="2" frameY="2" frameWidth="680" frameHeight="1262"/>
+	<SubTexture name="CesarShadow Left0001" x="1531" y="0" width="684" height="1266" frameX="2" frameY="2" frameWidth="680" frameHeight="1262"/>
+	<SubTexture name="CesarShadow Left0002" x="1531" y="0" width="684" height="1266" frameX="2" frameY="2" frameWidth="680" frameHeight="1262"/>
+	<SubTexture name="CesarShadow Right0000" x="0" y="0" width="784" height="1270" frameX="2" frameY="2" frameWidth="780" frameHeight="1266"/>
+	<SubTexture name="CesarShadow Right0001" x="784" y="0" width="747" height="1270" frameX="2" frameY="2" frameWidth="780" frameHeight="1266"/>
+	<SubTexture name="CesarShadow Right0002" x="784" y="0" width="747" height="1270" frameX="2" frameY="2" frameWidth="780" frameHeight="1266"/>
+	<SubTexture name="CesarShadow Up0000" x="0" y="1270" width="572" height="1355" frameX="2" frameY="2" frameWidth="568" frameHeight="1351"/>
+	<SubTexture name="CesarShadow Up0001" x="0" y="1270" width="572" height="1355" frameX="2" frameY="2" frameWidth="568" frameHeight="1351"/>
+	<SubTexture name="CesarShadow Up0002" x="0" y="1270" width="572" height="1355" frameX="2" frameY="2" frameWidth="568" frameHeight="1351"/>
+</TextureAtlas>
