@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgbottom.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Adam Backdrop instance 10000" x="29" y="29" width="411" height="454"/>
+	<SubTexture name="Jonah Backdrop instance 10000" x="457" y="29" width="411" height="459"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Final Glitch.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Final Glitch0000" x="554" y="631" width="554" height="314" frameX="2" frameY="2" frameWidth="552" frameHeight="312"/>
+	<SubTexture name="Final Glitch0001" x="556" y="0" width="555" height="315" frameX="2" frameY="2" frameWidth="552" frameHeight="312"/>
+	<SubTexture name="Final Glitch0002" x="0" y="631" width="554" height="314" frameX="2" frameY="2" frameWidth="552" frameHeight="312"/>
+	<SubTexture name="Final Glitch0003" x="0" y="316" width="555" height="315" frameX="2" frameY="2" frameWidth="552" frameHeight="312"/>
+	<SubTexture name="Final Glitch0004" x="555" y="316" width="555" height="315" frameX="2" frameY="2" frameWidth="552" frameHeight="312"/>
+	<SubTexture name="Final Glitch0005" x="0" y="0" width="556" height="316" frameX="2" frameY="2" frameWidth="552" frameHeight="312"/>
+</TextureAtlas>

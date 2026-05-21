@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BgGlitch.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="bgglitch0000" x="0" y="0" width="760" height="925" frameX="2" frameY="1" frameWidth="756" frameHeight="922"/>
+	<SubTexture name="bgglitch0001" x="0" y="0" width="760" height="925" frameX="2" frameY="1" frameWidth="756" frameHeight="922"/>
+	<SubTexture name="bgglitch0002" x="760" y="0" width="760" height="925" frameX="2" frameY="1" frameWidth="756" frameHeight="922"/>
+	<SubTexture name="bgglitch0003" x="760" y="0" width="760" height="925" frameX="2" frameY="1" frameWidth="756" frameHeight="922"/>
+</TextureAtlas>
